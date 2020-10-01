@@ -86,4 +86,3 @@ choices.forEach(choice => {
 });
 
 startGame();
-
